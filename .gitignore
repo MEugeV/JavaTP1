@@ -1,0 +1,14 @@
+/build/
+/dist/
+/nbproject/private/
+*.class
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+*~ 
+target/
+.gradle/
+build/
+*.bak
